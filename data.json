@@ -1,0 +1,125 @@
+{
+    "dashboard": {
+        "totalSubscribers": "103",
+        "channelAnalytics": {
+            "timeFrame": "Last 28 days",
+            "views": "3.2K",
+            "watchTime": "93.2"
+        },
+        "latestPublishedContent": [
+            {
+                "video": "Donald Trump Quote Generator - HTML, CSS, & JavaScript Tutorial",
+                "thumbnail": "images/poster-6.webp",
+                "timeFrame": "First 9 days 21 hours",
+                "views": "76",
+                "likes": "2",
+                "comments": "0"
+            },
+            {
+                "video": "Notes App Tutorial - HTML, CSS, and JavaScript",
+                "thumbnail": "images/poster-5.webp",
+                "timeFrame": "First 34 days 11 hours",
+                "views": "126",
+                "likes": "8",
+                "comments": "0"
+            },
+            {
+                "video": "Music App Tutorial - HTML, CSS, and JavaScript",
+                "thumbnail": "images/poster-3.webp",
+                "timeFrame": "First 34 days 16 hours",
+                "views": "134",
+                "likes": "6",
+                "comments": "0"
+            }
+        ],
+        "latestComments": {
+            "video": "Calculator Tutorial - HTML, CSS, and JavaScript",
+            "thumbnail": "images/poster-1.webp",
+            "comments": [
+                {
+                    "user": "denaspirine",
+                    "thumbnail": "images/comment-1.webp",
+                    "timeFrame": "1mo ago",
+                    "comment": "Eval is evil"
+                },
+                {
+                    "user": "Creative World 1",
+                    "thumbnail": "images/comment-2.webp",
+                    "timeFrame": "1mo ago",
+                    "comment": "💯"
+                },
+                {
+                    "user": "hasan nuur",
+                    "thumbnail": "images/comment-3.webp",
+                    "timeFrame": "2mo ago",
+                    "comment": "Wow you're doing good keep going"
+                }
+            ]
+        }
+    },
+    "content": [
+        {
+            "video": "Donald Trump Quote Generator - HTML, CSS, & JavaScript Tutorial",
+            "thumbnail": "images/poster-6.webp",
+            "duration": "12:00",
+            "published": "9 days ago",
+            "views": "76",
+            "likes": "2",
+            "comments": "0"
+        },
+        {
+            "video": "Notes App Tutorial - HTML, CSS, and JavaScript",
+            "thumbnail": "images/poster-5.webp",
+            "duration": "30:24",
+            "published": "1 month ago",
+            "views": "126",
+            "likes": "8",
+            "comments": "0"
+        },
+        {
+            "video": "Music App Tutorial - HTML, CSS, and JavaScript",
+            "thumbnail": "images/poster-3.webp",
+            "duration": "32:46",
+            "published": "1 month ago",
+            "views": "134 views",
+            "likes": "6",
+            "comments": "0"
+        },
+        {
+            "video": "Fetch Tutorial - HTML, CSS, and JavaScript",
+            "thumbnail": "images/poster-4.webp",
+            "duration": "6:08",
+            "published": "1 month ago",
+            "views": "224",
+            "likes": "5",
+            "comments": "0"
+        },
+        {
+            "video": "Thomas Jefferson portrayed by Craig L Claybrook recites the Declaration of Independence",
+            "thumbnail": "images/poster-7.webp",
+            "duration": "18:10",
+            "published": "1 month ago",
+            "views": "27",
+            "likes": "2",
+            "comments": "0"
+        },
+        {
+            "video": "Material Design styled text fields - HTML, CSS, and JavaScript",
+            "thumbnail": "images/poster-2.webp",
+            "duration": "17:21",
+            "published": "2 months ago",
+            "views": "150",
+            "likes": "4",
+            "comments": "0"
+        },
+        {
+            "video": "Calculator Tutorial - HTML, CSS, and JavaScript",
+            "thumbnail": "images/poster-1.webp",
+            "duration": "8:47",
+            "published": "2 months ago",
+            "views": "5.7K",
+            "likes": "274",
+            "comments": "10"
+        }
+    ]
+}
